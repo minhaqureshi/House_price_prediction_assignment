@@ -14,6 +14,7 @@ The company is looking at prospective properties to buy to enter the market. You
 Below are some of the features, which are having negative correlation with salesprice, i.e., decrease in their values can lead to increase in sales price:-
 1. PropAge - Age of property
 2. MSSubClass - Type of dwelling involved in the sale
+
 While few below features are having positive correlation with salesprice, i.e., increase in their values can lead to increase in sales price:-
 1. OverallQual - Rates the overall material and finish of the house
 2. GrLivArea - Above grade (ground) living area square feet
